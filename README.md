@@ -1,10 +1,10 @@
-# 🌈 finalGroupCapstone-backend 
+# 🏩 finalGroupCapstone-backend 
 
 # 📗 Table of Contents
 
-- [🌈 finalGroupCapstone-backend](#-finalgroupcapstone-backend)
+- [🏩 finalGroupCapstone-backend](#-finalgroupcapstone-backend)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Book an appointment | Hotels ](#-book-an-appointment--hotels-)
+- [📖 Book a Hotel ](#-book-a-hotel-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -24,7 +24,7 @@
 
 # 📖 Book a Hotel <a name="about-project"></a>
 
-> The Book an appointment | Places API will provide functionality to create, read, and destroy data related to places. It will serve as the server-side component responsible for handling requests and managing the database. The React client will interact with this backend to perform actions such as creating new places and reservations, see the place details, and removing places from the system.
+> The Book a Hotel 🏩, our API will provide functionality to create, read, and destroy data related to hotels. It will serve as the server-side component responsible for handling requests and managing the database. The React client will interact with this backend to perform actions such as creating new hotels and reservations, see the hotel details, and removing hotels from the system.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -137,7 +137,7 @@ rake rswag:specs:swaggerize
 
 - Github: [Gilbert Happi Dushimimana](https://github.com/gilberthappi)
 - X: [Gilbert Happi Dushimimana](https://twitter.com/DushimimanaGil3)
-- LinkedIn: [Gilber Happi Dushimimana](https://www.linkedin.com/in/dushimimana-gilbert-happi-997b2a262/)
+- LinkedIn: [Gilbert Happi Dushimimana](https://www.linkedin.com/in/dushimimana-gilbert-happi-997b2a262/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +163,7 @@ If you like this project please give it a star 😁🌟✨
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Thanks to [Murat Korkmaz](https://www.behance.net/muratk) for the aswesome [design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign).
+We thank to [Murat Korkmaz](https://www.behance.net/muratk) for the marvelous [design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
