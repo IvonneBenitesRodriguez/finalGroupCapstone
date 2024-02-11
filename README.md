@@ -22,7 +22,7 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Book an appointment | Hotels <a name="about-project"></a>
+# 📖 Book a Hotel <a name="about-project"></a>
 
 > The Book an appointment | Places API will provide functionality to create, read, and destroy data related to places. It will serve as the server-side component responsible for handling requests and managing the database. The React client will interact with this backend to perform actions such as creating new places and reservations, see the place details, and removing places from the system.
 
