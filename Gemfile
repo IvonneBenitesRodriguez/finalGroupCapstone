@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '3.2.2'
+ruby '3.1.4'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem 'rails', '>= 7.1.0'
@@ -15,10 +15,10 @@ gem 'shoulda-matchers', '~> 5.0'
 
 gem 'aws-sdk-s3'
 
-
+gem 'factory_bot_rails'
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
-gem 'psych', '5.0.1'
+gem 'psych', '~> 5.0.1'
 
 gem 'sprockets-rails'
 # Use postgresql as the database for Active Record
