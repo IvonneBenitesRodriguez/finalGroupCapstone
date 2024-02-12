@@ -14,7 +14,7 @@ gem 'jwt'
 gem 'shoulda-matchers', '~> 5.0'
 
 gem 'aws-sdk-s3'
-gem 'sqlite3', '~> 1.4'
+
 
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
