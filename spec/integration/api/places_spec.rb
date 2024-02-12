@@ -1,5 +1,5 @@
 require 'swagger_helper'
-
+require 'factory_bot_rails'
 RSpec.describe 'api/places', type: :request do
   path '/api/v1/places' do
     get 'Retrieves a list of places' do

@@ -1,5 +1,5 @@
 require 'swagger_helper'
-
+require 'factory_bot_rails'
 RSpec.describe 'Api::V1::Reservations', type: :request do
   path '/api/v1/users/{user_id}/reservations' do
     # Your existing code for GET and POST requests here...

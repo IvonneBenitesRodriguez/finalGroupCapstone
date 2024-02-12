@@ -1,5 +1,5 @@
 require 'rails_helper'
-
+require 'factory_bot_rails'
 RSpec.describe "Users API", type: :request do
   describe "POST /api/v1/users/:user_id/reservations" do
     let(:user) { create(:user) } # Assuming you have a factory named :user set up with FactoryBot
