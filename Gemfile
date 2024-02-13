@@ -8,14 +8,11 @@ gem 'rails', '>= 7.1.0'
 
 gem 'active_model_serializers'
 
-
 gem 'jwt'
 
 gem 'shoulda-matchers', '~> 5.0'
 
 gem 'aws-sdk-s3'
-
-
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'psych', '5.0.1'
