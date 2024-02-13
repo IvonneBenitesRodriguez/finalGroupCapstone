@@ -1,4 +1,4 @@
-class CreatePlaces < ActiveRecord::Migration[7.0]
+class CreatePlaces < ActiveRecord::Migration[7.1]
   def change
     create_table :places do |t|
       t.text :description, null: false
@@ -6,6 +6,7 @@ class CreatePlaces < ActiveRecord::Migration[7.0]
       t.string :location, null: false
       t.integer :rate, null: false
       t.references :owner, null: false, foreign_key: { to_table: :users }, index: true
+
       t.timestamps
     end
   end

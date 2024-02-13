@@ -81,6 +81,8 @@ group :development, :test do
   gem 'rails-controller-testing'
   gem 'rspec-rails'
   gem 'sqlite3', '~> 1.4'
+  gem 'factory_bot_rails'
+
 end
 
 group :development do

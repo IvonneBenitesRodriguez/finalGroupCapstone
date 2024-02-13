@@ -1,4 +1,4 @@
-class CreateReservations < ActiveRecord::Migration[7.0]
+class CreateReservations < ActiveRecord::Migration[7.1]
   def change
     create_table :reservations do |t|
       t.references :customer, null: false, foreign_key: { to_table: :users }, index: true
@@ -6,6 +6,7 @@ class CreateReservations < ActiveRecord::Migration[7.0]
       t.date :start_date, null: false
       t.date :end_date, null: false
       t.integer :bill, null: false
+
       t.timestamps
     end
   end
