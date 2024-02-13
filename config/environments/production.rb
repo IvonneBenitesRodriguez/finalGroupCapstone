@@ -2,8 +2,7 @@ require "active_support/core_ext/integer/time"
 
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
-  config.secret_key_base = Rails.application.credentials.secret_key_base
- 
+
   # Code is not reloaded between requests.
   config.enable_reloading = false
 
@@ -70,7 +69,7 @@ Rails.application.configure do
 
   # Use a real queuing backend for Active Job (and separate queues per environment).
   # config.active_job.queue_adapter = :resque
-  # config.active_job.queue_name_prefix = "my_professional_app_production"
+  # config.active_job.queue_name_prefix = "backend_production"
 
   config.action_mailer.perform_caching = false
 
