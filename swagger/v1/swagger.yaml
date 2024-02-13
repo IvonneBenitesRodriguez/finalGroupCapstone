@@ -321,4 +321,4 @@ servers:
 - url: http://{defaultHost}
   variables:
     defaultHost:
-      default: book-an-appointment-backend.onrender.com
+      default: book-an-appointment-cmm0.onrender.com
