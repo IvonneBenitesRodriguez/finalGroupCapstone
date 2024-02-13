@@ -1,5 +1,4 @@
 require 'rails_helper'
-require 'factory_bot_rails'
 
 RSpec.configure do |config|
   # Specify a root folder where Swagger JSON files are generated
@@ -26,7 +25,7 @@ RSpec.configure do |config|
           url: 'http://{defaultHost}',
           variables: {
             defaultHost: {
-              default: 'http://127.0.0.1:3000/'
+              default: 'boiling-taiga-49294-bcedd3da6f09.herokuapp.com'
             }
           }
         }

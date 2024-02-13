@@ -21,7 +21,7 @@ default: &default
 
 development:
   <<: *default
-  database: Booking_development
+  database: Book_development
   username: postgres
   password: happi123
 
@@ -57,7 +57,7 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: Booking_test
+  database: Book_test
   username: postgres
   password: happi123
 
@@ -83,7 +83,7 @@ test:
 #
 production:
   <<: *default
-  database: Booking_production
+  database: Book_production
   username: postgres
   password: happi123
   

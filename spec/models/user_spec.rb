@@ -1,5 +1,4 @@
 require 'rails_helper'
-require 'factory_bot_rails'
 
 describe User, type: :model do
   describe 'associations' do
