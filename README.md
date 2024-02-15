@@ -1,4 +1,20 @@
 # 🏩 finalGroupCapstone-backend 
+  <h1><b>Book an appointment | Hotels</b></h1>
+  <img src="./app/assets/images/hotel_ERD.jpg" />
+</div>
+
+<hr>
+
+ ## Kanban board
+ - [Kanban board Project link](https://github.com/users/IvonneBenitesRodriguez/projects/19/views/1)
+ 
+  ### Initial State of Kanban board
+   <img src="./app/assets/images/kanban.jpeg" />
+
+ ### Complete State of Kanban board
+  <img src="./app/assets/images/kanban_board.jpeg" />
+
+ Our group remained the same of 2 team members throughout the whole project.
 
 # 📗 Table of Contents
 
